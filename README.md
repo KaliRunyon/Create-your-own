@@ -6,7 +6,10 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
 <h3> Two: to the upper right corner you can hit "sign up"</h3>
 <img src="Screen Shot 2021-04-08 at 8.56.22 PM (2).png" />
  Once you have navigated to the sign up page you will see you are asked for the following information
- 
  <img src="Screen Shot 2021-04-08 at 9.53.30 PM (2).png" />
+ Once you have entered the required information and verified you are indeed alive, you will be brought to your "home" page. 
+ <h4> Now to create your very fist repository!!!! YAY </h4>
+ On the left hand side, you have a menu column. At the top you should see "Repositories" and next to it a "New" green button
+ <h5> CLICK IT </h5>
  
  
