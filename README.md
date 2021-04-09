@@ -27,5 +27,5 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <img src="Screen Shot 2021-04-08 at 10.29.51 PM (2).png" />
 <h8> Now the moment of truth, let's test our set up!"
 Did you happen to notice the "KaliRunyon.github.io"? this is going to be you link to your website you've created. So we are going to just tupe this straight into our search engine. And you should see something like this!
- <img src=" 
-           
+ <img src="Screen Shot 2021-04-08 at 10.38.35 PM.png"/>
+ 
