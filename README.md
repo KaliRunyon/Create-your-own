@@ -28,5 +28,5 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <h9> Now the moment of truth, let's test our set up!"</h9>
 Did you happen to notice the "KaliRunyon.github.io"? This is going to be your link to the website you've now created, of course mirroring your specific username and repository name. So we are going to just type this straight into our search engine. And you should see something like this!
  <img src="Screen Shot 2021-04-08 at 10.38.35 PM.png"/>
- <h10><bold> Congratulations, you have a functional website/portofilio! </h10/</bold>
+ <h10><bold> Congratulations, you have a functional website/portfolio! </h10/</bold>
   
