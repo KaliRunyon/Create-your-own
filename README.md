@@ -11,5 +11,7 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <h4> Now to create your very fist repository!!!! YAY </h4>
  On the left hand side, you have a menu column. At the top you should see "Repositories" and next to it a "New" green button
  <h5> CLICK IT </h5>
- 
+<img src="Screen Shot 2021-04-08 at 9.56.08 PM (2).png" />
+ Now you are prompted to name this new master piece you are crafting. After you have done so, you can give it a description, choose who can see it, amoung other options!
+ <h6> Click the "Create repository" button. </h6>
  
