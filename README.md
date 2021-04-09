@@ -16,4 +16,5 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <h6> Click the "Create Repository" button. </h6>
  <img src="Screen Shot 2021-04-08 at 9.56.42 PM (2).png" />
  Now, you have done the easy part. Now comes the creation of your actual code. 
- 
+ <img src="Screen Shot 2021-04-08 at 9.56.51 PM (2).png" />
+ <h7>You have now created the repository you will house your code and create some things! Congratulations and best of luck! </h7>
