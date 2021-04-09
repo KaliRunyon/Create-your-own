@@ -8,7 +8,7 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  Once you have navigated to the sign up page you will see you are asked for the following information
  <img src="Screen Shot 2021-04-08 at 9.53.30 PM (2).png" />
  Once you have entered the required information and verified you are indeed alive, you will be brought to your "home" page. 
- <h4> Now to create your very fist repository!!!! YAY </h4>
+ <h4> Now to create your very first repository!!!! YAY </h4>
  On the left hand side, you have a menu column. At the top you should see "Repositories" and next to it a "New" green button
  <h5> CLICK IT </h5>
 <img src="Screen Shot 2021-04-08 at 9.56.08 PM (2).png" />
@@ -17,15 +17,16 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <img src="Screen Shot 2021-04-08 at 9.56.42 PM (2).png" />
  Now, you have done the easy part. Now comes the creation of your actual code. 
  <img src="Screen Shot 2021-04-08 at 9.56.51 PM (2).png" />
- <h7>You have now created the repository you will need to upload a photo if you'd liek this to be on your webpage we are going to create and a little code! </h7>
+ <h7>You have now created the repository, you will need to upload a photo if you'd like this to be on your webpage we are going to create, and a little code! </h7>
  Now, I have uploaded a photo and a bit of code to let you know this is my portfolio. I'm also going to show you how to check if you page is working like you want it to.
 <img src="Screen Shot 2021-04-08 at 10.19.08 PM (2).png" />
  I added the photo by clicking the "add files" button.
  <img src="Screen Shot 2021-04-08 at 10.29.48 PM (2).png" />
- For a simple portfolio page we do not need to much, so this is the simple coding I used. 
-<h9> Make sure you hit the green "Commit Changes" button to save your files and/or code.</h9>
+ For a simple portfolio page we do not need too much, so this is the simple coding I used. 
+<h8> Make sure you hit the green "Commit Changes" button to save your files and/or code.</h8>
  <img src="Screen Shot 2021-04-08 at 10.29.51 PM (2).png" />
-<h8> Now the moment of truth, let's test our set up!"
-Did you happen to notice the "KaliRunyon.github.io"? this is going to be you link to your website you've created, of course mirroring your specific username and repository name. So we are going to just type this straight into our search engine. And you should see something like this!
+ <h9> Now the moment of truth, let's test our set up!"</h9>
+Did you happen to notice the "KaliRunyon.github.io"? This is going to be your link to the website you've now created, of course mirroring your specific username and repository name. So we are going to just type this straight into our search engine. And you should see something like this!
  <img src="Screen Shot 2021-04-08 at 10.38.35 PM.png"/>
- 
+ <h10><bold> Congratulations, you have a functional website/portofilio! </h10/</bold>
+  
