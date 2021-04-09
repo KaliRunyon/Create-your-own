@@ -17,4 +17,6 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
  <img src="Screen Shot 2021-04-08 at 9.56.42 PM (2).png" />
  Now, you have done the easy part. Now comes the creation of your actual code. 
  <img src="Screen Shot 2021-04-08 at 9.56.51 PM (2).png" />
- <h7>You have now created the repository you will house your code and create some things! Congratulations and best of luck! </h7>
+ <h7>You have now created the repository you will need to upload a photo if you'd liek this to be on your webpage we are going to create and a little code! </h7>
+ Now, I have uploaded a photo and a bit of code to let you know this is my portfolio. I'm also going to show you how to check if you page is working like you want it to.
+<img src="
