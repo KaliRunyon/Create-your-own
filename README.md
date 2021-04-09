@@ -1,7 +1,7 @@
 # Create-your-own
 <html>
 <h1> You're in tech with no Github? Let's change that! </h1>
-Follow www.github.com to the landing page. Once you arrive, you have two options for creation
+Follow www.github.com to the landing page. Once you arrive, you have two options for creation.
 <h2> One: right below "Where the world builds software" you can input your email and press the magic "sign up for GitHub" button. </h2>
 <h3> Two: to the upper right corner you can hit "sign up"</h3>
 <img src="Screen Shot 2021-04-08 at 8.56.22 PM (2).png" />
@@ -26,6 +26,6 @@ Follow www.github.com to the landing page. Once you arrive, you have two options
 <h9> Make sure you hit the green "Commit Changes" button to save your files and/or code.</h9>
  <img src="Screen Shot 2021-04-08 at 10.29.51 PM (2).png" />
 <h8> Now the moment of truth, let's test our set up!"
-Did you happen to notice the "KaliRunyon.github.io"? this is going to be you link to your website you've created. So we are going to just tupe this straight into our search engine. And you should see something like this!
+Did you happen to notice the "KaliRunyon.github.io"? this is going to be you link to your website you've created, of course mirroring your specific username and repository name. So we are going to just type this straight into our search engine. And you should see something like this!
  <img src="Screen Shot 2021-04-08 at 10.38.35 PM.png"/>
  
